@@ -24,6 +24,7 @@ The app integrates Flask for the backend and uses the Ollama AI API to generate 
 <ul type=point>
 <li>Python 3.8 or higher.<br></li>
 <li>A code editor or IDE.<br></li>
+<li>Ollama version 3.1 with 8 billion parameters need to be installed in our local system</li>
 </ul>
 
 <h2>Project Structure</h2>
