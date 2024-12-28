@@ -1,4 +1,4 @@
-<h1>AI-Powered Travel Planner</h1>
+<h1>AI-Powered Personal Travel Planner</h1>
 <p>
 An AI-based travel planner web application that helps users plan itineraries, find accommodations, explore food options, and discover adventure activities and tourist spots.<br>
 The app integrates Flask for the backend and uses the Ollama AI API to generate recommendations.
